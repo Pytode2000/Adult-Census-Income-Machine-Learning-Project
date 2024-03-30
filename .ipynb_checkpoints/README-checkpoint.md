@@ -9,6 +9,8 @@ Our group comprises three members:
   
 We are from Tutorial Group: FCSA, Team: 1, and our teaching assistant is Mr. Girish Kumar Deepank.
 
+Brief Video Presentation: [Link](https://www.canva.com/design/DAGA3UcTBQc/QS1fChVqik4YSdmnALXurQ/edit?utm_content=DAGA3UcTBQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## About
 This is a mini-project for Nanyang Technology University's SC1015 Introduction to Data Science and Artificial Intelligence where students are grouped and tasked to select a dataset and complete the entire machine-learning pipeline.
 
@@ -62,4 +64,19 @@ Accurately predict whether an adult makes more than 50 thousand annually based o
 - Exporting and importing trained models to perform prediction. 
 
 ## References
-- TBC
+- [1] https://www.data-to-viz.com/
+- [2] https://archive.ics.uci.edu/dataset/2/adult
+- [3] https://pbpython.com/categorical-encoding.html
+- [4] https://www.mygreatlearning.com/blog/gridsearchcv/
+- [5] https://www.geeksforgeeks.org/ml-gradient-boosting/
+- [6] https://seaborn.pydata.org/tutorial/color_palettes.html
+- [7] https://www.geeksforgeeks.org/what-is-feature-engineering/
+- [8] https://www.geeksforgeeks.org/data-visualization-in-jupyter-notebook/
+- [9] https://www.geeksforgeeks.org/data-visualization-with-python-seaborn/
+- [10] https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69
+- [11] https://coderpad.io/blog/data-science/mastering-jupyter-notebooks-best-practices-for-data-science/
+- [12] https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950
+- [13] https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+- [14] https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/
+- [15] https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+
