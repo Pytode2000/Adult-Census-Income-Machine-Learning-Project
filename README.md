@@ -9,7 +9,7 @@ Our group comprises three members:
   
 We are from Tutorial Group: FCSA, Team: 1, and our teaching assistant is Mr. Girish Kumar Deepank.
 
-Brief Video Presentation: [Link](https://www.canva.com/design/DAGA3UcTBQc/QS1fChVqik4YSdmnALXurQ/edit?utm_content=DAGA3UcTBQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Brief Video Presentation (if the audio doubles on the first slide, go to the next slide then return): [Link](https://www.canva.com/design/DAGA3UcTBQc/QS1fChVqik4YSdmnALXurQ/edit?utm_content=DAGA3UcTBQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About
 This is a mini-project for Nanyang Technology University's SC1015 Introduction to Data Science and Artificial Intelligence where students are grouped and tasked to select a dataset and complete the entire machine-learning pipeline.
