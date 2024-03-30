@@ -72,9 +72,9 @@ Accurately predict whether an adult makes more than 50 thousand annually based o
 - [8] https://www.geeksforgeeks.org/data-visualization-in-jupyter-notebook/
 - [9] https://www.geeksforgeeks.org/data-visualization-with-python-seaborn/
 - [10] https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69
-- [11] https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950
-- [12] https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
-- [13] https://coderpad.io/blog/data-science/mastering-jupyter-notebooks-best-practices-for-data-science/
+- [11] https://coderpad.io/blog/data-science/mastering-jupyter-notebooks-best-practices-for-data-science/
+- [12] https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950
+- [13] https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
 - [14] https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/
 - [15] https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
 
