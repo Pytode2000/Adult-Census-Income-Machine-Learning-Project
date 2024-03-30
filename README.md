@@ -62,4 +62,19 @@ Accurately predict whether an adult makes more than 50 thousand annually based o
 - Exporting and importing trained models to perform prediction. 
 
 ## References
-- TBC
+- [1] https://www.data-to-viz.com/
+- [2] https://archive.ics.uci.edu/dataset/2/adult
+- [3] https://pbpython.com/categorical-encoding.html
+- [4] https://www.mygreatlearning.com/blog/gridsearchcv/
+- [5] https://www.geeksforgeeks.org/ml-gradient-boosting/
+- [6] https://seaborn.pydata.org/tutorial/color_palettes.html
+- [7] https://www.geeksforgeeks.org/what-is-feature-engineering/
+- [8] https://www.geeksforgeeks.org/data-visualization-in-jupyter-notebook/
+- [9] https://www.geeksforgeeks.org/data-visualization-with-python-seaborn/
+- [10] https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69
+- [11] https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950
+- [12] https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+- [13] https://coderpad.io/blog/data-science/mastering-jupyter-notebooks-best-practices-for-data-science/
+- [14] https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/
+- [15] https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+
