@@ -1,4 +1,4 @@
-# Welcome to our Adult Census Income Repository!
+# Adult Census Income Repository!
 
 ## Contributors
 
@@ -49,7 +49,15 @@ Accurately predict whether an adult makes more than 50 thousand annually based o
 17. Passive Aggressive Classifier
 
 ## Conclusion
-- TBC
+- Gradient Boosting is the best model for the dataset at **86%**
+- Top 3 most important features are
+  - relationship: 41.69%
+  - education-num: 19.42%
+  - capital-gain: 12.11%
+
+## Limitations
+- Training Limitation: Our training computers is unable to take the workload of more strenuous models and gridsearch
+- Dataset Limitation: The dataset mainly focuses on US populace and not global population -> difficult to predict global populace
 
 ## What We Learnt & Explored
 - Collaborating effectively using Github.
